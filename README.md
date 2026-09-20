@@ -58,10 +58,90 @@ Pada bagian ini pengguna akan diberikan beberapa pilihan menu yang dapat digunak
 Menu member berisi 2 sub menu yaitu lihat dan tambah member yang fungsinya sebagai berikut:
 * **Tambah Member**
  <img width="556" height="455" alt="image" src="https://github.com/user-attachments/assets/e77a130d-7c2e-47e4-838f-b4a59976f83a" />
-Pada sub menu ini, pengguna dapat menambahkan member baru yang akan bergabung untuk mengikuti kelas di studio dengan memasukkan ID member, nama member, nomor telepon, dan usia member tersebut. Program ini dilengkapi dengan input validator sehingga pengguna tidak akan dapat memasukkan ID yang sama secara berulang dan tidak dapat mengosongkan nama atribut.
+ 
+Pada sub menu ini, pengguna dapat menambahkan member baru yang akan bergabung untuk mengikuti kelas di studio dengan memasukkan data-data pribadi member tersebut. Program ini dilengkapi dengan input validator sehingga pengguna tidak akan dapat memasukkan ID yang sama secara berulang dan tidak dapat mengosongkan nama atribut.
 
 * **Lihat Member**
-<img width="521" height="456" alt="image" src="https://github.com/user-attachments/assets/d92363b1-a351-46dd-8f94-f92d5fa9a26d" />
+ <img width="546" height="462" alt="image" src="https://github.com/user-attachments/assets/723b2fd5-242f-4699-8a9d-893ec435c802" />
 
+ Pada sub menu ini, pengguna dapat melihat daftar member yang telah terdaftar pada sistem.
 
+* **Kembali**
+<img width="575" height="365" alt="image" src="https://github.com/user-attachments/assets/5c16a9c6-3337-4085-97a1-55fa33dd9037" />
 
+Pada sub menu ini, pengguna dapat kembali ke menu utama program.
+
+## Menu Instruktur 
+<img width="567" height="307" alt="image" src="https://github.com/user-attachments/assets/57253ce7-2eec-4b5a-af50-0c5aea68f273" />
+
+Menu instruktur berisi 2 sub menu yaitu lihat dan tambah instruktur yang fungsinya sebagai berikut:
+
+* **Tambah Instruktur**
+<img width="692" height="412" alt="image" src="https://github.com/user-attachments/assets/76ca191e-4b59-4dd0-b430-377fd0f380b0" />
+
+Pada sub menu ini, pengguna dapat menambahkan instruktur baru yang akan bergabung untuk memandu kelas di studio dengan memasukkan data-data pribadi instruktur tersebut. Program ini dilengkapi dengan input validator sehingga pengguna tidak akan dapat memasukkan ID yang sama secara berulang dan tidak dapat mengosongkan nama atribut.
+
+* **Lihat Instruktur**
+<img width="567" height="507" alt="image" src="https://github.com/user-attachments/assets/3f12579f-15ef-43e3-aa85-0a842e3e3b86" />
+
+ Pada sub menu ini, pengguna dapat melihat daftar instruktur yang telah terdaftar pada sistem.
+
+* **Kembali**
+<img width="570" height="371" alt="image" src="https://github.com/user-attachments/assets/1db7252b-a4e0-4ebb-bb0d-bbe6ebeb6719" />
+
+Pada sub menu ini, pengguna dapat kembali ke menu utama program.
+
+## Menu Jenis Kelas
+<img width="560" height="302" alt="image" src="https://github.com/user-attachments/assets/ceb8e4a7-65f6-44c7-87d5-47b41412a450" />
+
+Menu jenis kelas berisi 2 sub menu yaitu lihat dan tambah jenis kelas yang fungsinya sebagai berikut:
+
+* **Tambah Jenis Kelas**
+<img width="730" height="705" alt="image" src="https://github.com/user-attachments/assets/263c6ce8-0968-4577-ab22-aafa6a020c9f" />
+
+Pada sub menu ini, pengguna dapat menambahkan jenis kelas baru yang akan dilaksanakan di studio dengan memasukkan informasi dari jenis kelas tersebut tersebut. Program ini dilengkapi dengan input validator sehingga pengguna tidak akan dapat memasukkan ID yang sama secara berulang dan tidak dapat mengosongkan nama atribut.
+
+* **Lihat Jenis Kelas**
+<img width="552" height="817" alt="image" src="https://github.com/user-attachments/assets/745f873b-ccc5-4fc5-bcbf-711a7b26128c" />
+
+ Pada sub menu ini, pengguna dapat melihat daftar jenis kelas yang telah terdaftar pada sistem.
+
+* **Kembali**
+<img width="582" height="362" alt="image" src="https://github.com/user-attachments/assets/cca445db-af1f-4c25-b1a1-41a2758cb7ee" />
+
+Pada sub menu ini, pengguna dapat kembali ke menu utama program.
+
+## Menu Daftar Kelas 
+<img width="557" height="357" alt="image" src="https://github.com/user-attachments/assets/fc16a388-f1ef-41fd-b0e9-ac47d3445aaf" />
+
+Menu pendaftaran kelas berisi 4 sub menu yaitu lihat, tambah, hapus, dan perbarui daftar kelas yang fungsinya sebagai berikut:
+
+* **Lihat Daftar Kelas**
+<img width="571" height="377" alt="image" src="https://github.com/user-attachments/assets/76e3c902-da59-437d-9881-edb07a6b2244" />
+
+Pada sub menu ini, pengguna dapat melihat daftar kelas yang telah terdaftar pada sistem.
+
+* **Pendaftaran Kelas**
+<img width="590" height="296" alt="image" src="https://github.com/user-attachments/assets/30b7cfb6-61f1-41cc-9e1d-21dbf67b2682" />
+
+Pada sub menu ini, sistem akan menampilkan id member, id instruktur, dan id jenis kelas agar pengguna dapat memilih member, instruktur, dan jenis kelas apa yang ingin ditambahkan. Setelah itu, akan muncul output dimana kelas berhasil ditambahkan dan tertera identitas member, instruktur, dan jenis kelas yang akan dilaksanakan. Program ini dilengkapi dengan input validator sehingga pengguna tidak akan dapat memasukkan ID yang sama secara berulang dan tidak dapat mengosongkan nama atribut.
+
+* **Hapus Kelas**
+<img width="522" height="737" alt="image" src="https://github.com/user-attachments/assets/142dc259-b5e5-4316-866a-7c2f43f71eb6" />
+
+Pada sub menu ini, sistem akan mengarahkan pengguna untuk menginput ID kelas yang akan dihapus. Selanjutnya, sistem akan menghapus kelas sesuai dengan ID yang di input oleh pengguna. 
+
+* **Update Status Kelas**
+<img width="562" height="870" alt="image" src="https://github.com/user-attachments/assets/9c78d973-18a9-427b-8e47-26a0fca55504" />
+
+Pada sub menu ini, sistem dapat memperbarui status dari daftar kelas. Sub menu ini dapat digunakan untuk memperbarui status dari kelas yang telah didaftarkan dari Terjadwal menjadi Selesai atau Batal agar memudahkan pengelola dalam monitoring daftar kelasnya.
+
+* **Kembali**
+<img width="577" height="355" alt="image" src="https://github.com/user-attachments/assets/25053e78-39f0-4b6f-ad81-90514e82132a" />
+
+Pada sub menu ini, pengguna dapat kembali ke menu utama program.
+
+## Keluar
+<img width="577" height="450" alt="image" src="https://github.com/user-attachments/assets/c4f2d33c-9a17-484b-98e6-9a6b00885662" />
+
+Pada menu ini, pengguna akan diarahkan untuk keluar dari sistem.
