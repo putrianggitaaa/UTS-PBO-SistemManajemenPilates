@@ -45,3 +45,23 @@ Keyword extends menunjukkan bahwa JenisKelasPrivate merupakan subclass dari Jeni
 <img width="766" height="367" alt="image" src="https://github.com/user-attachments/assets/b8102196-f303-4b0c-a8f8-5386d20e5132" />
 
 Keyword extends menunjukkan bahwa JenisKelasPublik merupakan subclass dari JenisKelas. Class ini mewarisi atribut dan method yang dimiliki oleh superclass JenisKelas, seperti idJenis, namaJenis, level, dan durasi. JenisKelasPublik kemudian memiliki atribut tambahan yaitu Atribut kapasitas yang merupakan karakteristik khusus yang hanya ditambahkan pada class JenisKelasPublik untuk menentukan jumlah peserta dalam kelas publik. Inheritance juga diterapkan pada constructor melalui penggunaan Keyword super yang digunakan untuk memanggil constructor dari superclass JenisKelas. Dengan demikian, nilai idJenis, namaJenis, level, dan durasi dapat diteruskan dan diinisialisasi oleh constructor pada class JenisKelas. Setelah itu, kapasitas diinisialisasi sebagai atribut khusus milik JenisKelasPublik.
+# DOKUMENTASI ALUR PROGRAM
+
+## Tampilan Menu Utama
+<img width="591" height="312" alt="image" src="https://github.com/user-attachments/assets/036bd8ed-d392-4cc0-8d53-728d8af3a08d" />
+
+Pada bagian ini pengguna akan diberikan beberapa pilihan menu yang dapat digunakan untuk mengelola data. Terdapat menu member yang berfungsi untuk mengelola data member, menu Instruktur yang digunakan untuk mengelola data instruktur, menu jenis kelas yang digunakan untuk mengelola jenis kelas yang tersedia, serta menu pendaftaran kelas yang digunakan untuk mengelola daftar kelas yang akan dilaksanakan di studio pilates ini. Program ini dilengkapi input validator yang apabila kita menginput menu diluar dari 1-5, maka akan muncul pemberitahuan agar memilih menu dengan benar.
+
+## Menu Member
+<img width="535" height="237" alt="image" src="https://github.com/user-attachments/assets/8f65d11e-2201-4cda-9f4f-8321c1047d91" />
+
+Menu member berisi 2 sub menu yaitu lihat dan tambah member yang fungsinya sebagai berikut:
+* **Tambah Member**
+ <img width="556" height="455" alt="image" src="https://github.com/user-attachments/assets/e77a130d-7c2e-47e4-838f-b4a59976f83a" />
+Pada sub menu ini, pengguna dapat menambahkan member baru yang akan bergabung untuk mengikuti kelas di studio dengan memasukkan ID member, nama member, nomor telepon, dan usia member tersebut. Program ini dilengkapi dengan input validator sehingga pengguna tidak akan dapat memasukkan ID yang sama secara berulang dan tidak dapat mengosongkan nama atribut.
+
+* **Lihat Member**
+<img width="521" height="456" alt="image" src="https://github.com/user-attachments/assets/d92363b1-a351-46dd-8f94-f92d5fa9a26d" />
+
+
+
