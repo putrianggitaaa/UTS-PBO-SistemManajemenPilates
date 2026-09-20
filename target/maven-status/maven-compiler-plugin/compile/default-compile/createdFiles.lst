@@ -1,0 +1,9 @@
+model\DaftarKelas.class
+model\JenisKelasPrivate.class
+service\service.class
+model\JenisKelasPublik.class
+service\InputValidator.class
+model\Instruktur.class
+model\JenisKelas.class
+model\Member.class
+main\SistemPilates.class
